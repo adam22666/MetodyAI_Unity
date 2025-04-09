@@ -1,0 +1,4 @@
+UtiliyAI_FPS filter=lfs diff=lfs merge=lfs -text
+NPC_hliadka filter=lfs diff=lfs merge=lfs -text
+A-star_Bludisko filter=lfs diff=lfs merge=lfs -text
+Tic_tac_toe-Minimax filter=lfs diff=lfs merge=lfs -text
